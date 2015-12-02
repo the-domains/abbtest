@@ -1,0 +1,28 @@
+name: ABBtest
+favicon: null
+layout_spectrum: 0.6576842376962304
+typography_spectrum: 0.7646949940826744
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4407480959780514
+  lightness: 0.7613710286095738
+  saturation: 0.596663985401392
+  rhythmicContrast: 0.7825633070897311
+purpose: []
